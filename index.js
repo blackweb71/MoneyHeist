@@ -1,0 +1,21 @@
+x = document.querySelector("title");
+a = document.querySelector(".but1");
+b = document.querySelector(".but2");
+c = document.querySelector(".but3");
+d = document.querySelector(".but4");
+e = document.querySelector(".but5");
+f = document.querySelector(".but6");
+g = document.querySelector(".but7");
+h = document.querySelector(".but8");
+i = document.querySelector(".but9");
+
+x.innerHTML="Black Web 71";
+a.innerHTML="S05E01";
+b.innerHTML="S05E02";
+c.innerHTML="S05E03";
+d.innerHTML="S05E04";
+e.innerHTML="S05E05";
+f.innerHTML="S05E06";
+g.innerHTML="S05E07";
+h.innerHTML="S05E08";
+i.innerHTML="S05E09";
